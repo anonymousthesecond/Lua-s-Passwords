@@ -1,1 +1,2 @@
-# Lua-s-Passwords
+# Lua's-Passwords
+Just a password generator.
